@@ -14,6 +14,10 @@
 </template>
 
 <script setup>
+    const data = reactive({
+        listArr : [
+        ]
+    })
 
 </script>
 
