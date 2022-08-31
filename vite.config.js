@@ -13,7 +13,7 @@ export default defineConfig({
         'vue',
         {
           'naive-ui': ['useDialog', 'useMessage', 'useNotification', 'useLoadingBar', 'cardProps', 'useNGrid', 'useNGridItem',
-                      'useNGi', 'useNCarousel', 'useNCarouselItem'],
+                      'useNGi', 'useNCarousel', 'useNCarouselItem', 'useNBackTop'],
         },
       ],
     }),

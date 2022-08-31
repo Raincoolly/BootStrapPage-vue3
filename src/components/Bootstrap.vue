@@ -31,6 +31,7 @@
       </n-grid-item>
     </n-grid>
   </div>
+  <n-back-top :right="100" />
 </template>
 
 <script setup>
